@@ -1,0 +1,9 @@
+TimeSeries ID,network/received_bytes_count.gcs_bucket.ALIGN_RATE.REDUCE_SUM.metric.type="storage.googleapis.com/network/received_bytes_count" resource.type="gcs_bucket" AND resource.labels."project_id"="vddl-419615".60s.location:us-central1.project_id:vddl-419615
+location,us-central1
+project_id,vddl-419615
+Wed May 01 2024 05:49:00 GMT-0600 (Mountain Daylight Time),0.95
+Wed May 01 2024 05:50:00 GMT-0600 (Mountain Daylight Time),0
+Wed May 01 2024 05:51:00 GMT-0600 (Mountain Daylight Time),39.016666666666666
+Wed May 01 2024 05:57:00 GMT-0600 (Mountain Daylight Time),0
+Wed May 01 2024 06:02:00 GMT-0600 (Mountain Daylight Time),0
+Wed May 01 2024 06:03:00 GMT-0600 (Mountain Daylight Time),0

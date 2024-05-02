@@ -1,0 +1,27 @@
+TimeSeries ID,instance/cpu/utilization.gce_instance.ALIGN_MEAN.REDUCE_SUM.metric.type="compute.googleapis.com/instance/cpu/utilization" resource.type="gce_instance" AND resource.labels."project_id"="vddl-419615".60s.project_id:vddl-419615
+project_id,vddl-419615
+Wed May 01 2024 05:41:00 GMT-0600 (Mountain Daylight Time),0.14412376653876685
+Wed May 01 2024 05:42:00 GMT-0600 (Mountain Daylight Time),0.23754192926535334
+Wed May 01 2024 05:43:00 GMT-0600 (Mountain Daylight Time),0.05398485209206516
+Wed May 01 2024 05:44:00 GMT-0600 (Mountain Daylight Time),0.18746786982683286
+Wed May 01 2024 05:45:00 GMT-0600 (Mountain Daylight Time),0.3523205822876853
+Wed May 01 2024 05:46:00 GMT-0600 (Mountain Daylight Time),0.21176493635332777
+Wed May 01 2024 05:47:00 GMT-0600 (Mountain Daylight Time),0.10270480427859746
+Wed May 01 2024 05:48:00 GMT-0600 (Mountain Daylight Time),0.1283714690616404
+Wed May 01 2024 05:49:00 GMT-0600 (Mountain Daylight Time),0.050317912371151866
+Wed May 01 2024 05:50:00 GMT-0600 (Mountain Daylight Time),0.05936244308598037
+Wed May 01 2024 05:51:00 GMT-0600 (Mountain Daylight Time),0.05913139344882481
+Wed May 01 2024 05:52:00 GMT-0600 (Mountain Daylight Time),0.04708581712789789
+Wed May 01 2024 05:53:00 GMT-0600 (Mountain Daylight Time),0.046705174151215445
+Wed May 01 2024 05:54:00 GMT-0600 (Mountain Daylight Time),0.04725465915914029
+Wed May 01 2024 05:55:00 GMT-0600 (Mountain Daylight Time),0.05060566246356141
+Wed May 01 2024 05:56:00 GMT-0600 (Mountain Daylight Time),0.04627145023015042
+Wed May 01 2024 05:57:00 GMT-0600 (Mountain Daylight Time),0.044341534355913245
+Wed May 01 2024 05:58:00 GMT-0600 (Mountain Daylight Time),0.049995494907339594
+Wed May 01 2024 05:59:00 GMT-0600 (Mountain Daylight Time),0.04608997873030844
+Wed May 01 2024 06:00:00 GMT-0600 (Mountain Daylight Time),0.045595233677277844
+Wed May 01 2024 06:01:00 GMT-0600 (Mountain Daylight Time),0.05031508234501416
+Wed May 01 2024 06:02:00 GMT-0600 (Mountain Daylight Time),0.04854280357821518
+Wed May 01 2024 06:03:00 GMT-0600 (Mountain Daylight Time),0.045402971236329866
+Wed May 01 2024 06:04:00 GMT-0600 (Mountain Daylight Time),0.04389575536748088
+Wed May 01 2024 06:05:00 GMT-0600 (Mountain Daylight Time),0.046840774968138515

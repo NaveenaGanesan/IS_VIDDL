@@ -1,0 +1,27 @@
+TimeSeries ID,instance/memory/balloon/ram_used.gce_instance.ALIGN_MEAN.REDUCE_SUM.metric.type="compute.googleapis.com/instance/memory/balloon/ram_used" resource.type="gce_instance" AND resource.labels."project_id"="vddl-419615".60s.project_id:vddl-419615
+project_id,vddl-419615
+Wed May 01 2024 05:42:00 GMT-0600 (Mountain Daylight Time),1106890752
+Wed May 01 2024 05:43:00 GMT-0600 (Mountain Daylight Time),1565609984
+Wed May 01 2024 05:44:00 GMT-0600 (Mountain Daylight Time),1669939200
+Wed May 01 2024 05:45:00 GMT-0600 (Mountain Daylight Time),2969235456
+Wed May 01 2024 05:46:00 GMT-0600 (Mountain Daylight Time),2922274816
+Wed May 01 2024 05:47:00 GMT-0600 (Mountain Daylight Time),3318288384
+Wed May 01 2024 05:48:00 GMT-0600 (Mountain Daylight Time),3514052608
+Wed May 01 2024 05:49:00 GMT-0600 (Mountain Daylight Time),3699712000
+Wed May 01 2024 05:50:00 GMT-0600 (Mountain Daylight Time),3700654080
+Wed May 01 2024 05:51:00 GMT-0600 (Mountain Daylight Time),3798740992
+Wed May 01 2024 05:52:00 GMT-0600 (Mountain Daylight Time),3801366528
+Wed May 01 2024 05:53:00 GMT-0600 (Mountain Daylight Time),3787862016
+Wed May 01 2024 05:54:00 GMT-0600 (Mountain Daylight Time),3787804672
+Wed May 01 2024 05:55:00 GMT-0600 (Mountain Daylight Time),3786727424
+Wed May 01 2024 05:56:00 GMT-0600 (Mountain Daylight Time),3790848000
+Wed May 01 2024 05:57:00 GMT-0600 (Mountain Daylight Time),3790524416
+Wed May 01 2024 05:58:00 GMT-0600 (Mountain Daylight Time),3794182144
+Wed May 01 2024 05:59:00 GMT-0600 (Mountain Daylight Time),3798769664
+Wed May 01 2024 06:00:00 GMT-0600 (Mountain Daylight Time),3800875008
+Wed May 01 2024 06:01:00 GMT-0600 (Mountain Daylight Time),3807846400
+Wed May 01 2024 06:02:00 GMT-0600 (Mountain Daylight Time),3815170048
+Wed May 01 2024 06:03:00 GMT-0600 (Mountain Daylight Time),3814195200
+Wed May 01 2024 06:04:00 GMT-0600 (Mountain Daylight Time),3818971136
+Wed May 01 2024 06:05:00 GMT-0600 (Mountain Daylight Time),3819958272
+Wed May 01 2024 06:06:00 GMT-0600 (Mountain Daylight Time),3822854144

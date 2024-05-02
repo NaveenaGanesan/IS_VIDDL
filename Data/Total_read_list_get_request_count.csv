@@ -1,0 +1,11 @@
+TimeSeries ID,api/request_count.gcs_bucket.ALIGN_RATE.REDUCE_SUM.metric.type="storage.googleapis.com/api/request_count" resource.type="gcs_bucket" metric.label."method"=monitoring.regex.full_match("Read.*|List.*|Get.*") AND resource.labels."project_id"="vddl-419615".60s.location:us-central1.project_id:vddl-419615.method:GetBucketMetadata,api/request_count.gcs_bucket.ALIGN_RATE.REDUCE_SUM.metric.type="storage.googleapis.com/api/request_count" resource.type="gcs_bucket" metric.label."method"=monitoring.regex.full_match("Read.*|List.*|Get.*") AND resource.labels."project_id"="vddl-419615".60s.location:us-central1.project_id:vddl-419615.method:GetObjectMetadata,api/request_count.gcs_bucket.ALIGN_RATE.REDUCE_SUM.metric.type="storage.googleapis.com/api/request_count" resource.type="gcs_bucket" metric.label."method"=monitoring.regex.full_match("Read.*|List.*|Get.*") AND resource.labels."project_id"="vddl-419615".60s.location:us-central1.project_id:vddl-419615.method:ListObjects,api/request_count.gcs_bucket.ALIGN_RATE.REDUCE_SUM.metric.type="storage.googleapis.com/api/request_count" resource.type="gcs_bucket" metric.label."method"=monitoring.regex.full_match("Read.*|List.*|Get.*") AND resource.labels."project_id"="vddl-419615".60s.location:us-central1.project_id:vddl-419615.method:ReadObject
+method,GetBucketMetadata,GetObjectMetadata,ListObjects,ReadObject
+project_id,vddl-419615,vddl-419615,vddl-419615,vddl-419615
+location,us-central1,us-central1,us-central1,us-central1
+Wed May 01 2024 05:48:00 GMT-0600 (Mountain Daylight Time),0,undefined,undefined,undefined
+Wed May 01 2024 05:49:00 GMT-0600 (Mountain Daylight Time),0.016666666666666666,undefined,undefined,undefined
+Wed May 01 2024 05:50:00 GMT-0600 (Mountain Daylight Time),0,undefined,undefined,undefined
+Wed May 01 2024 05:51:00 GMT-0600 (Mountain Daylight Time),undefined,undefined,0.016666666666666666,undefined
+Wed May 01 2024 05:57:00 GMT-0600 (Mountain Daylight Time),undefined,undefined,0.016666666666666666,undefined
+Wed May 01 2024 06:02:00 GMT-0600 (Mountain Daylight Time),undefined,0.06666666666666667,undefined,0.06666666666666667
+Wed May 01 2024 06:03:00 GMT-0600 (Mountain Daylight Time),undefined,0,undefined,undefined
